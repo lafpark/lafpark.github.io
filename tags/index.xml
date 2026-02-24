@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Laurence A. F. Park</title>
-    <link>//localhost:1313/tags/</link>
+    <link>https://lafpark.github.io/tags/</link>
     <description>Recent content in Tags on Laurence A. F. Park</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This page, its contents and style, are the responsibility of the author and do not necessarily represent the views, policies or opinions of Western Sydney University. The header image Memorial to Folly is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC. All other content &amp;copy; Laurence Park</copyright>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lafpark.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

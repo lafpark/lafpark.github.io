@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Laurence A. F. Park</title>
-    <link>//localhost:1313/projects/</link>
+    <link>https://lafpark.github.io/projects/</link>
     <description>Recent content in Projects on Laurence A. F. Park</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This page, its contents and style, are the responsibility of the author and do not necessarily represent the views, policies or opinions of Western Sydney University. The header image Memorial to Folly is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC. All other content &amp;copy; Laurence Park</copyright>
-    <atom:link href="//localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lafpark.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Approximate clustering of very large scale data</title>
-      <link>//localhost:1313/projects/covat/</link>
+      <link>https://lafpark.github.io/projects/covat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/covat/</guid>
+      <guid>https://lafpark.github.io/projects/covat/</guid>
       <description>&lt;p&gt;Many machine learning, data mining and statistical analysis tasks are&#xA;used to identify properties of data, or to build models of sampled&#xA;data. Unfortunately, these analytical methods are computationally&#xA;expensive; their computational resource use being a function of the&#xA;dimensionality and sample count of the data being analysed. Recent&#xA;advances is data acquisition (such as genetic sequencing) have allowed&#xA;us to capture very large amounts of data (of the order of terabytes)&#xA;for analysis and modelling. The complexity of current machine learning&#xA;and data mining methods makes them infeasible to be directly applied&#xA;to such large scale data.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Automatic thesaurus construction using non-linear term relationships</title>
-      <link>//localhost:1313/projects/autothesaurus/</link>
+      <link>https://lafpark.github.io/projects/autothesaurus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/autothesaurus/</guid>
+      <guid>https://lafpark.github.io/projects/autothesaurus/</guid>
       <description>&lt;p&gt;Text based information retrieval systems retrieve documents based on&#xA;the set of key terms provided to them. The documents returned are&#xA;ranked according to the count of each query term, therefore if the&#xA;query terms do not exist in the document it is not found. Latent&#xA;semantic analysis (LSA) is a method of computing hidden topics within&#xA;documents using linear algebra. By obtaining the relationships between&#xA;each hidden topic and each term, we are able to compute which terms&#xA;are similar by comparing the similarity of each of the terms&#xA;topics. This hidden topic information allows the retrieval system to&#xA;return documents that do not contain the query terms, but do contain&#xA;terms that are similar to the query terms (shown in Fig. 5). The&#xA;current linear algebraic techniques use the Euclidean distance as a&#xA;similarity measure for vectors. Unfortunately, the Euclidean distance&#xA;is not a useful metric for term or document similarity.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Discovering document model deficiencies for information retrieval</title>
-      <link>//localhost:1313/projects/deficiencies/</link>
+      <link>https://lafpark.github.io/projects/deficiencies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/deficiencies/</guid>
+      <guid>https://lafpark.github.io/projects/deficiencies/</guid>
       <description>&lt;p&gt;Text based information retrieval systems are built using document&#xA;models. To analyse the retrieval precision of a model, a set of&#xA;queries are provided to the model and the results are compared to the&#xA;desired results. This type of analysis allows us to compare the&#xA;precision of different retrieval models, but it does not provide us&#xA;with any feedback on where the models could be improved. Currently&#xA;there are no methods of analysis of text retrieval systems that are&#xA;able to show where deficiencies lie within the document model. We aim&#xA;to investigate methods of retrieval analysis that is able to reveal&#xA;where specific document model deficiencies occur, using a given query&#xA;and document set. Our analysis will allow information retrieval&#xA;experiments to be more thorough and show why certain document models&#xA;achieve a certain precision, thus allowing the document models to be&#xA;adjusted and improved.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Efficient and effective use of Language Models for Information Retrieval</title>
-      <link>//localhost:1313/projects/efficientlm/</link>
+      <link>https://lafpark.github.io/projects/efficientlm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/efficientlm/</guid>
+      <guid>https://lafpark.github.io/projects/efficientlm/</guid>
       <description>&lt;p&gt;Language models for text based information retrieval have become a de&#xA;facto standard due to their simplicity and effectiveness. Recently,&#xA;several language modelling techniques have been developed that assume&#xA;a hidden distribution of topics within the set of documents. Such&#xA;methods include Probabilistic Latent Semantic Analysis (PLSA) and&#xA;Latent Dirichlet Allocation (LDA), where the former uses a multinomial&#xA;distribution of topics, while the latter uses a Dirichlet prior. By&#xA;using this notion of hidden topics, we are able to compute&#xA;relationships from term to topic and hence term to&#xA;term. Unfortunately, these language modelling methods produces large&#xA;amounts of data and require lengthy periods of time to perform&#xA;document retrieval.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Improving the quality of Web information retrieval using multi-resolution link analysis</title>
-      <link>//localhost:1313/projects/multiresolution/</link>
+      <link>https://lafpark.github.io/projects/multiresolution/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/multiresolution/</guid>
+      <guid>https://lafpark.github.io/projects/multiresolution/</guid>
       <description>&lt;p&gt;The World Wide Web is the most important information source in modern&#xA;society. The information within the Web is accessed through Web search&#xA;engines such as Google and Yahoo. These search engines use a global&#xA;popularity rank during the computation of their results, based on&#xA;links from all of the pages on the Web. This global popularity rank&#xA;used by Google is known as PageRank. Using these global popularity&#xA;ranks biases the search results towards the globally popular Web&#xA;pages. Our aim is to investigate the effect of a peer popularity rank&#xA;where popularity is measured only through sites of a similar&#xA;nature. We perform this task by observing the interaction between Web&#xA;pages at a finer resolution (as shown in Fig. 1). We expect that using&#xA;the peer popularity rank will allow search engines to locate Web pages&#xA;that are more specific to the user needs rather than pages of general&#xA;popularity. This will improve the quality of information that is&#xA;delivered by Web search engines and provide organisation amongst the&#xA;billions of existing Web pages.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Relevance-based document models for Information Retrieval</title>
-      <link>//localhost:1313/projects/relevancemodels/</link>
+      <link>https://lafpark.github.io/projects/relevancemodels/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/relevancemodels/</guid>
+      <guid>https://lafpark.github.io/projects/relevancemodels/</guid>
       <description>&lt;p&gt;Document models are used for information retrieval in order to compute&#xA;the probability of a query being related to the document. The majority&#xA;of document models are functions of the terms that appear within the&#xA;document. This implies that a query is only relevant to a document if&#xA;the query terms exist within the document, which is far from the&#xA;truth.&lt;/p&gt;&#xA;&lt;p&gt;In our project, we have created a new form of document model called, a&#xA;Relevance-based document model, which is built based on the relevance&#xA;of each query to the document and not the words that appear within the&#xA;document. Relevance-based document models are constructed using a set&#xA;of queries and the associated relevance of the query to the document&#xA;(shown in Fig. 6). This information allows us to construct a model&#xA;that provides 100% precision results for the known queries and large&#xA;improvements in precision over document content-based models for&#xA;partially known queries. Since the relevance-based document models are&#xA;based only on the query terms and their relevance to a document, the&#xA;time required to build the models is very fast and the storage&#xA;required to store the model is very compact.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Web page prefetching using temporal link analysis</title>
-      <link>//localhost:1313/projects/templinkanalysis/</link>
+      <link>https://lafpark.github.io/projects/templinkanalysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/templinkanalysis/</guid>
+      <guid>https://lafpark.github.io/projects/templinkanalysis/</guid>
       <description>&lt;p&gt;Web searching should be as simple as providing the search engine with&#xA;a query and having the search engine return a link to the desired Web&#xA;page. Unfortunately, current Web search engines use text based queries&#xA;and therefore require the user to provide keywords. Converting the&#xA;users information need into a few key words is not a simple&#xA;process. Due to this, Web search patterns involve the user visiting&#xA;many Web pages that do not satisfy their information need, while&#xA;interleaving this process with several visits to the Web search&#xA;engine. Rather than the user actively searching for pages using key&#xA;words, the search engine could provide pages to the user based on&#xA;their Web usage patterns. By examining the users Web history, we will&#xA;be able to compute the types of Web pages the user desires and hence&#xA;provide search results to the user without the need for key&#xA;words. This method of passive Web searching is called&#xA;prefetching. Given that Google has had such success in using link&#xA;analysis to provide useful retrieval results, we aim to investigate&#xA;the utility of Web links to perform prefetching.&lt;/p&gt;</description>
     </item>
   </channel>

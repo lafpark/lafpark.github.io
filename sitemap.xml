@@ -2,76 +2,76 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/research/</loc>
+    <loc>https://lafpark.github.io/research/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/projects/</loc>
+    <loc>https://lafpark.github.io/projects/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>https://lafpark.github.io/posts/</loc>
     <lastmod>2020-01-14T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/posts/recruiting/</loc>
+    <loc>https://lafpark.github.io/posts/recruiting/</loc>
     <lastmod>2020-01-14T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/contact/</loc>
+    <loc>https://lafpark.github.io/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>https://lafpark.github.io/</loc>
     <lastmod>2020-01-14T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/posts/researchgroup/</loc>
+    <loc>https://lafpark.github.io/posts/researchgroup/</loc>
     <lastmod>2020-01-14T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/posts/textir05/</loc>
+    <loc>https://lafpark.github.io/posts/textir05/</loc>
     <lastmod>2011-04-14T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/projects/covat/</loc>
+    <loc>https://lafpark.github.io/projects/covat/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/projects/autothesaurus/</loc>
+    <loc>https://lafpark.github.io/projects/autothesaurus/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>https://lafpark.github.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/projects/deficiencies/</loc>
+    <loc>https://lafpark.github.io/projects/deficiencies/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/projects/efficientlm/</loc>
+    <loc>https://lafpark.github.io/projects/efficientlm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/projects/multiresolution/</loc>
+    <loc>https://lafpark.github.io/projects/multiresolution/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/projects/relevancemodels/</loc>
+    <loc>https://lafpark.github.io/projects/relevancemodels/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>https://lafpark.github.io/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/projects/templinkanalysis/</loc>
+    <loc>https://lafpark.github.io/projects/templinkanalysis/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

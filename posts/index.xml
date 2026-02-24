@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Laurence A. F. Park</title>
-    <link>//localhost:1313/posts/</link>
+    <link>https://lafpark.github.io/posts/</link>
     <description>Recent content in Posts on Laurence A. F. Park</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This page, its contents and style, are the responsibility of the author and do not necessarily represent the views, policies or opinions of Western Sydney University. The header image Memorial to Folly is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC. All other content &amp;copy; Laurence Park</copyright>
     <lastBuildDate>Tue, 14 Jan 2020 11:25:05 -0400</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lafpark.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Now Recruiting</title>
-      <link>//localhost:1313/posts/recruiting/</link>
+      <link>https://lafpark.github.io/posts/recruiting/</link>
       <pubDate>Tue, 14 Jan 2020 11:25:05 -0400</pubDate>
-      <guid>//localhost:1313/posts/recruiting/</guid>
+      <guid>https://lafpark.github.io/posts/recruiting/</guid>
       <description>&lt;p&gt;I am now recruiting students willing to undertake a Masters or PhD&#xA;degree in the fields of Information Retrieval, Data Mining or Machine&#xA;Learning. Interested students should contact me and provide a current&#xA;resume outlining relevant academic and professional history.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Data Science Research Group</title>
-      <link>//localhost:1313/posts/researchgroup/</link>
+      <link>https://lafpark.github.io/posts/researchgroup/</link>
       <pubDate>Tue, 14 Jan 2020 11:25:05 -0400</pubDate>
-      <guid>//localhost:1313/posts/researchgroup/</guid>
+      <guid>https://lafpark.github.io/posts/researchgroup/</guid>
       <description>&lt;p&gt;If you have a new idea that will advance the field of data science,&#xA;why not present your idea in one of our Data Science research group seminars. If&#xA;you are interested, contact me to get the process started.&lt;/p&gt;</description>
     </item>
     <item>
       <title>textIR 0.5 Released</title>
-      <link>//localhost:1313/posts/textir05/</link>
+      <link>https://lafpark.github.io/posts/textir05/</link>
       <pubDate>Thu, 14 Apr 2011 11:25:05 -0400</pubDate>
-      <guid>//localhost:1313/posts/textir05/</guid>
+      <guid>https://lafpark.github.io/posts/textir05/</guid>
       <description>&lt;p&gt;The latest version of textIR has been released. The new features include&#xA;indexing, retrieval and topic modelling of text document sets. More information&#xA;can be found at &lt;a href=&#34;https://www.scm.uws.edu.au/~lapark/textIR&#34;&gt;https://www.scm.uws.edu.au/~lapark/textIR&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
